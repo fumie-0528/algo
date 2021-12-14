@@ -22,3 +22,4 @@ function moveZeroLeft(arr) {
 let a = [1,10,20,0,59,63,0,88,0];
 moveZeroLeft(a);
 console.log(a);
+
